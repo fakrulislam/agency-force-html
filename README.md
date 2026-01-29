@@ -1,10 +1,12 @@
 # Agency Force - Responsive Agency Website
 
+[Preview](https://fakrulislam.me/wp-content/portfolio/agency-force-html/)
+
 ### Languages:
 
 - HTML5
 - CSS3
-- Javascript/jQuery
+- Javascript
 
 ### 3rd Party Tools
 - [Owl Carousel](https://owlcarousel2.github.io/OwlCarousel2/)
